@@ -87,8 +87,8 @@ Attempts Left: 6
 - Add score tracking and replay option
 
 ## 👩‍💻 Author
+M.nandini
 
-**Vyshnavi Chinthalapalli**
 
 ---
 
